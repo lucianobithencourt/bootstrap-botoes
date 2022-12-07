@@ -12,6 +12,9 @@
         color: white;
         font-weight: bold;
     }
+    hr{
+        border: 1px solid white;
+    }
  }
 
 /* Dispositivos small (telefones em modo paisagem, com 576px ou mais) */
@@ -22,6 +25,10 @@
         color: white;
         font-weight: bold;
     }
+
+    hr{
+        border: 1px solid white;
+    }
  }
 
 /* Dispositivos médios (tablets com 768px ou mais) */
@@ -31,6 +38,10 @@
         color: white;
         font-weight: bold;
     }
+
+    hr{
+        border: 1px solid white;
+    }
  }
 
 /* Dispositivos large (desktops com 992px ou mais) */
@@ -39,6 +50,10 @@
         background-color:rgb(255, 153, 0);
         color: white;
         font-weight: bold;
+    }
+
+    hr{
+        border: 1px solid rgb(0,0,0);
     }
  }
 
@@ -50,4 +65,9 @@
     font-weight: bold;
  }
 
+ hr{
+    border: 1px solid rgb(0,0,0);
 }
+
+}
+
